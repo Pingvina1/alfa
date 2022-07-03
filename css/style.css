@@ -1,0 +1,73 @@
+body{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    background: #000; 
+}
+
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+.logo{
+    width: 120px;
+    height: 120px;
+    margin-left: 140px;
+    margin-top: 20px;
+    vertical-align: middle;
+}
+
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 20px;
+    margin-left: 900px;
+}
+
+.nav-li{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 23px;
+
+}
+.navq{
+    color: aliceblue;
+}
+
+.active{
+    color: aquamarine;
+}
+.container{
+    width: 1177px;
+    margin: 0 , auto;
+}
+.left-block{ 
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-top: 80px;
+   
+}
+.text2{
+    color: #fff;
+    margin-bottom: 10px;
+    
+}
+.text3{
+    color: rgb(119, 119, 119);
+    
+}
+.text4{
+    color: #fff;
+    margin-bottom: 20px;
+    
+    
+}
+.right-block{
+    display: inline-block;
+    margin-left: 150px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(119, 119, 119);
+}
