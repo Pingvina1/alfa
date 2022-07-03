@@ -20,8 +20,8 @@ body{
 
 .navigation{
     margin-left: 600px;
-    margin-bottom: 100px;
     display: inline-block;
+    vertical-align: middle;
 }
 
 .nav-li{
