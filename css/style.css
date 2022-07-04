@@ -11,15 +11,15 @@ body{
 }
 .logo{
     display: inline-block;
-    width: 110px;
-    height: 110px;
+    width: 100x;
+    height: 100px;
     margin-left: 140px;
     margin-top: 20px;
     vertical-align: middle;
 }
 
 .navigation{
-    margin-left: 600px;
+    margin-left: 500px;
     display: inline-block;
     vertical-align: middle;
     margin-top: 20px;
@@ -27,7 +27,7 @@ body{
 
 .nav-li{
     display: inline-block;
-    font-size: 20px;
+    font-size: 19;
     margin-right: 30px;
     color: #fff;
 
@@ -73,6 +73,10 @@ body{
     border-style: solid;
     border-color: rgb(119, 119, 119);
 }
+.container-program{
+    margin-left: 40px;
+    margin-top: 30px;
+}
 .img1{
     width: 150px;
     height: 150px;
@@ -96,4 +100,24 @@ body{
     margin-left: -370px;
     margin-bottom: 15px;
     vertical-align: bottom;
+}
+.social{
+    width: 30px;
+    height: 30px;
+    margin-top: 240px;
+    margin-left: 15px;
+
+}
+.social1{
+    width: 30px;
+    height: 30px;
+    margin-top: 240px;
+    margin-left: 3px;
+    }
+.divider{
+    width: 1px;
+    height: 27px;
+    margin-left: 10px;
+    display: inline-block;
+
 }
